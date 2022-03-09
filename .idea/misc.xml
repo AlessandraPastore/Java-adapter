@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/JavaDoc&amp;Tests" />
+    <option name="OPTION_SCOPE" value="private" />
+    <option name="OTHER_OPTIONS" value="-tag safe.precondition:a:&quot;Pre-Condition:&quot; -tag safe.postcondition:a:&quot;Post-Condition:&quot; -tag safe.testcases:a:&quot;Test cases:&quot; -tag safe.summary:a:&quot;Summary:&quot; -tag safe.testsuiteexecutionrecords:a:&quot;Test Suite Execution Records:&quot; -tag safe.testsuitedesign:a:&quot;Test Suite Design:&quot; -tag safe.executionvariables:a:&quot;Execution Variables:&quot;" />
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="true" project-jdk-name="9" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
